@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @romangurduz
 - 👀 I’m interested in creating something useful and beautiful
-- 🌱 I’m currently learning C#, AngularJs
+- 🌱 I’m currently learning ASP.NET
 - 📫 How to reach me hi@romangurduz.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 <!---
