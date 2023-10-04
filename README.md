@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @romangurduz
-- 👀 I’m interested in creating something useful and beautiful
-- 🌱 I’m currently learning ASP.NET
-- 📫 How to reach me hi@romangurduz.com
-<!-- - 💞️ I’m looking to collaborate on ... -->
-<!---
-romangurduz/romangurduz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there, I'm Roman! 👋
+
+I'm a fullstack developer and I'm passionate about creating awesome software. 
+My favorite programming languages are JavaScript, PHP, and C#, and I love working with Laravel and React.
+
+## About Me
+
+- 🌐 Website: www.romangurduz.com
+- 📫 Contact: hi@romangurduz.com
+- 💼 LinkedIn: https://www.linkedin.com/in/romangurduz/
+- 🐦 Twitter: https://twitter.com/romangurduz
+
+## My Tech Stack
+
+- 💻 macOS Enthusiast
+- 🌐 Frontend: React, Alpine.js
+- 🚀 Backend: PHP, Laravel, C#
